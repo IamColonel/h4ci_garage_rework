@@ -1,6 +1,12 @@
 # h4ci_garage
 
-Aperçu : https://prnt.sc/zhranv
+
+[REWORK]
+
+- Pour ouvrir le garage personnel c'est une touche (par defaut "Q")
+
+- Sur la map il y a uniquement les points pour ranger les véhicules
+
 
 [INSTALLATION]
 
@@ -18,6 +24,9 @@ start h4ci_garage
 
 
 * Pour ajouter des garages ou fourrière c'est dans le ``config.lua`` 
+
+
+* Pour changer la touche pour ouvrir le garage ``config.lua`` 
 
 
 
